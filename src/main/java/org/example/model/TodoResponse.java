@@ -19,7 +19,7 @@ public class TodoResponse {
 
     private String url;
 
-    public TodoResponse(TodoEntity todoEntity) {
+    public TodoResponse(TodoModel todoEntity) {
         this.id = todoEntity.getId();
         this.title = todoEntity.getTitle();
         this.order = todoEntity.getOrder();
