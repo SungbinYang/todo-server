@@ -8,6 +8,7 @@
   * ORM: JPA
   * Database: H2
   * 테스트: Mock, Junit5
+  * 테스팅 툴 : Postman
 
 ## 요구사항 정리
 |seq|필요기능|
